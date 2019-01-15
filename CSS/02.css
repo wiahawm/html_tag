@@ -1,0 +1,23 @@
+html{
+    font-size:10px;
+}
+
+ol, ol li{
+    font-size:2rem;
+    /* 10*1.2=12px */
+
+}
+
+ul, ul li{
+    font-size:2em;
+    /* ul=10*1.2=12px */
+    /* ul li=10*1.2*1.2=14.4px */
+}
+
+.vh{
+    font-size:5vh;
+}
+
+.vw{
+    font-size:5vw;
+}
